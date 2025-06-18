@@ -30,10 +30,8 @@ I built a cloud-based detection lab on Azure to simulate unauthorized access att
 
 🔓 0. VM Firewall Disabled (Inside the VM)
    ![Firewall Off](images/VM-FirewallsOff.png)
-   
 <details>
-<summary>
-
+<summary>🔎 View Full Lab Walkthrough (Screenshots)</summary>
 🔓 1. NSG Rule - Exposing VM to Inbound Traffic
     ![NSG Rule](images/NSG-Rule.png)
     
@@ -46,7 +44,6 @@ I built a cloud-based detection lab on Azure to simulate unauthorized access att
 🚨 4.Logic App Automation Flow (Incident Trigger → Email)
     ![Logic App Designer](images/EmailOnBruteForceIncident(LogicApp).png)
 
-🔎 View Full Lab Walkthrough (Screenshots)</summary>
    5.🔧Incident Email Alert (From Logic App)
    ![Email Alert](images/incident-email-alert.png)
 
