@@ -28,11 +28,32 @@ I built a cloud-based detection lab on Azure to simulate unauthorized access att
 
 ## 📸 Screenshots (Upload soon!)
 
-- Event Viewer showing Event ID 4625
-- KQL log query
-- GeoIP map in Sentinel Workbook
-- Investigation Graph in Sentinel
-- VirusTotal IP analysis
+🔓 0. VM Firewall Disabled (Inside the VM)
+   ![Firewall Off](images/VM-FirewallsOff.png)
+
+🔓 1. NSG Rule - Exposing VM to Inbound Traffic
+    ![NSG Rule](images/NSG-Rule.png)
+    
+📊 2. KQL Query to Detect Failed Logins + GeoIP Lookup
+    ![KQL Query + GeoIP](images/Logs-KQL-geo-search.png)
+
+🌍 3. Global Attack Map - Brute Force Sources
+   ![Geo Map](images/geo-map.png)
+
+🚨 4. Incident Email Alert (From Logic App)
+   ![Email Alert](images/incident-email-alert.png)
+
+🔧 5. Logic App Automation Flow (Incident Trigger → Email)
+    ![Logic App Designer](images/EmailOnBruteForceIncident(LogicApp).png)
+
+ 🕵️‍♂️ 6. Sentinel Incident Graph - Attack Entity Mapping
+    ![Investigation Graph](images/investigation_graph.png)
+
+🌐 7. Attacker Entity Investigation (IP Profile in Sentinel)
+    ![Entity Details](images/investigation.png)
+
+✅ 8. Confirmed True Positive + Closed Incident
+   ![Closed Incident](images/incident_closed.png)
 
 ---
 
