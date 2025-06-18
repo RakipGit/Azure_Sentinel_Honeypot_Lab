@@ -65,8 +65,8 @@ I built a cloud-based detection lab on Azure to simulate unauthorized access att
 
 ## 🛠️ Tools & Technologies
 
-- Microsoft Azure (Resource Group, VNet, VM)
-- Microsoft Sentinel
+- Microsoft Azure (Resource Group,VNet,VM,NSG)
+- Microsoft Sentinel (SIEM)
 - Log Analytics Workspace (LAW)
 - Azure Monitor Agent (AMA)
 - Kusto Query Language (KQL)
