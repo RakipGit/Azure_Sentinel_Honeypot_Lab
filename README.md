@@ -40,11 +40,11 @@ I built a cloud-based detection lab on Azure to simulate unauthorized access att
 🌍 3. Global Attack Map - Brute Force Sources
    ![Geo Map](images/geo-map.png)
 
-🚨 4. Incident Email Alert (From Logic App)
-   ![Email Alert](images/incident-email-alert.png)
-
-🔧 5. Logic App Automation Flow (Incident Trigger → Email)
+🚨 4.Logic App Automation Flow (Incident Trigger → Email)
     ![Logic App Designer](images/EmailOnBruteForceIncident(LogicApp).png)
+
+🔧 5.Incident Email Alert (From Logic App)
+   ![Email Alert](images/incident-email-alert.png)
 
  🕵️‍♂️ 6. Sentinel Incident Graph - Attack Entity Mapping
     ![Investigation Graph](images/investigation_graph.png)
