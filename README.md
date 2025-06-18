@@ -80,4 +80,4 @@ I built a cloud-based detection lab on Azure to simulate unauthorized access att
  
 Cyber Security | AZ-900 Certified   
   
-📫 [LinkedIn] | [GitHub]
+<!--📫 [LinkedIn] | [GitHub] -->
