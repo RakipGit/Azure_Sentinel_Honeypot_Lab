@@ -55,7 +55,10 @@ I built a cloud-based detection lab on Azure to simulate unauthorized access att
 🌐 8. Attacker Entity Investigation (IP Profile in Sentinel)
     ![Entity Details](images/investigation.png)
 
-✅ 9. Confirmed True Positive + Closed Incident
+🧪 9. Verifying Attacker IP via VirusTotal
+![VirusTotal Scan](images/virus_total.png)
+
+✅ 10. Confirmed True Positive + Closed Incident
    ![Closed Incident](images/incident_closed.png)
 
 ---
