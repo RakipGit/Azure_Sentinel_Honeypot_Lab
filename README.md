@@ -46,13 +46,16 @@ I built a cloud-based detection lab on Azure to simulate unauthorized access att
 🔧 5.Incident Email Alert (From Logic App)
    ![Email Alert](images/incident-email-alert.png)
 
- 🕵️‍♂️ 6. Sentinel Incident Graph - Attack Entity Mapping
+   6.🧠Sentinel Generating Multiple Brute Force Incidents
+   ![Incidents List](images/incidents.png)
+
+ 🕵️‍♂️ 7. Sentinel Incident Graph - Attack Entity Mapping
     ![Investigation Graph](images/investigation_graph.png)
 
-🌐 7. Attacker Entity Investigation (IP Profile in Sentinel)
+🌐 8. Attacker Entity Investigation (IP Profile in Sentinel)
     ![Entity Details](images/investigation.png)
 
-✅ 8. Confirmed True Positive + Closed Incident
+✅ 9. Confirmed True Positive + Closed Incident
    ![Closed Incident](images/incident_closed.png)
 
 ---
