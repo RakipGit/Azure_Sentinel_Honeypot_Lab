@@ -42,11 +42,12 @@ I built a cloud-based detection lab on Azure to simulate unauthorized access att
 
 🚨 4.Logic App Automation Flow (Incident Trigger → Email)
     ![Logic App Designer](images/EmailOnBruteForceIncident(LogicApp).png)
+
 <details>
 <summary>
 
 🔎 View Full Lab Walkthrough (Screenshots)</summary>
-🔧 5.Incident Email Alert (From Logic App)
+   5🔧.Incident Email Alert (From Logic App)
    ![Email Alert](images/incident-email-alert.png)
 
    6.🧠Sentinel Generating Multiple Brute Force Incidents
