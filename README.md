@@ -26,7 +26,7 @@ I built a cloud-based detection lab on Azure to simulate unauthorized access att
 
 ---
 
-## 📸 Screenshots (Upload soon!)
+## 📸 Screenshots 
 
 🔓 0. VM Firewall Disabled (Inside the VM)
    ![Firewall Off](images/VM-FirewallsOff.png)
@@ -76,9 +76,7 @@ I built a cloud-based detection lab on Azure to simulate unauthorized access att
 
 ---
 
-## 🙋‍♂️ About Me
-
-**Rakip**
+## 🙋‍♂️ Rakip
  
 Cyber Security | AZ-900 Certified   
   
