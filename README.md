@@ -51,6 +51,7 @@ I built a cloud-based detection lab on Azure to simulate unauthorized access att
 
 ## 🙋‍♂️ About Me
 
-**Rakip** 
+**Rakip**
+ 
 Cyber Security | AZ-900 Certified     
 📫 [LinkedIn] | [GitHub]
