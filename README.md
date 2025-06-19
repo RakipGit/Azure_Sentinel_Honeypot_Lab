@@ -64,6 +64,15 @@ I built a cloud-based detection lab on Azure to simulate unauthorized access att
 
 ✅ 10. Confirmed True Positive + Closed Incident
    ![Closed Incident](images/incident_closed.png)
+
+🚫 11. Manual NSG Rule to Block Malicious IP  
+   ![NSG Deny Rule](images/NSG-DenyMaliciousIP.png)
+
+🧪 12. IP Flow Verification – Deny Rule Working  
+   ![Flow Verify Denied](images/VerifyMaliciousIP-Denied.png)
+
+
+   
 </details>
 
 ---
