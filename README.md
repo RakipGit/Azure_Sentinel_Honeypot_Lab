@@ -3,6 +3,8 @@
 This project demonstrates a self-built cloud honeypot using a publicly exposed Azure VM and Microsoft Sentinel to detect brute-force login attempts from real-world threat actors.
 
 ---
+![Status](https://img.shields.io/badge/status-complete-brightgreen)
+![License](https://img.shields.io/badge/license-CC--BY%204.0-blue)
 
 ##💡 Project Summary
 
