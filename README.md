@@ -48,20 +48,20 @@ I built a cloud-based detection lab on Azure to simulate unauthorized access att
 🚨 4.Logic App Automation Flow (Incident Trigger → Email)
     ![Logic App Designer](images/EmailOnBruteForceIncident(LogicApp).png)
 
-   5.🔧Incident Email Alert (From Logic App)
+🔧 5.Incident Email Alert (From Logic App)
    ![Email Alert](images/incident-email-alert.png)
 
-   6.🧠Sentinel Generating Multiple Brute Force Incidents
+🧠 6.Sentinel Generating Multiple Brute Force Incidents
    ![Incidents List](images/incidents.png)
 
- 🕵️‍♂️ 7. Sentinel Incident Graph - Attack Entity Mapping
+🕵️‍♂️ 7. Sentinel Incident Graph - Attack Entity Mapping
     ![Investigation Graph](images/investigation_graph.png)
 
 🌐 8. Attacker Entity Investigation (IP Profile in Sentinel)
     ![Entity Details](images/investigation.png)
 
 🧪 9. Verifying Attacker IP via VirusTotal
-![VirusTotal Scan](images/virus_total.png)
+   ![VirusTotal Scan](images/virus_total.png)
 
 ✅ 10. Confirmed True Positive + Closed Incident
    ![Closed Incident](images/incident_closed.png)
@@ -71,7 +71,6 @@ I built a cloud-based detection lab on Azure to simulate unauthorized access att
 
 🧪 12. IP Flow Verification – Deny Rule Working  
    ![Flow Verify Denied](images/VerifyMaliciousIP-Denied.png)
-
 
    
 </details>
