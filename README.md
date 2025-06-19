@@ -94,9 +94,10 @@ I built a cloud-based detection lab on Azure to simulate unauthorized access att
 
 - Exposing the VM to the internet allowed me to simulate real-world attacks and observe how attackers behave in a short timeframe.
 - Disabling the VM firewall and creating open NSG rules were intentional misconfigurations to attract brute-force attempts, which were successfully logged and analyzed.
-- I used Microsoft Sentinel’s built-in rules to generate alerts and followed the full incident lifecycle: detection, investigation, validation, and closure.
-- Validating malicious IPs using VirusTotal added confidence in classifying the incident as a true positive.
-- This project helped me understand how cloud SIEM systems like Sentinel operate in detecting and managing security incidents end-to-end.
+- I used Microsoft Sentinel’s built-in analytics rules to detect and alert on suspicious activity, following the full incident lifecycle: detection, investigation, validation, and closure.
+- Validating attacker IPs using **VirusTotal** added strong confidence in marking incidents as true positives.
+- I manually blocked the confirmed malicious IP using a **Network Security Group (NSG) deny rule**, and verified it was working using **Azure Network Watcher - IP Flow Verify**.
+- This project helped me gain hands-on experience with how cloud SIEM systems like Microsoft Sentinel operate — from monitoring and detection to response and hardening the environment post-incident.
 
 ---
 
