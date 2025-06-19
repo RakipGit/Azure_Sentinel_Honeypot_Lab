@@ -104,7 +104,6 @@ I built a cloud-based detection lab on Azure to simulate unauthorized access att
 ## 📄 License
 
 All content in this repository-including screenshots, documentation, and detection logic was created by me, Rakip L.
-This project is licensed under the Creative Commons Attribution 4.0 International License. 
 See the [LICENSE](LICENSE) file for more details.
 
 ---
