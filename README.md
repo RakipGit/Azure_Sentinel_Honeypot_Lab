@@ -106,7 +106,7 @@ I built a cloud-based detection lab on Azure to simulate unauthorized access att
 
 ---
 
-## Copyright Notice
+## 🔒 Copyright Notice
 
 All content and visuals in this repository are original and may not be reused without permission.
 
