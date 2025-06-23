@@ -1,6 +1,5 @@
 
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
-![License](https://img.shields.io/badge/license-CC--BY%204.0-blue)
 
 
 #🛡️ Azure Sentinel Honeypot Lab (SIEM Detection Project)
