@@ -2,13 +2,13 @@
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 
 
-#🛡️ Azure Sentinel Honeypot Lab (SIEM Detection Project)
+🛡️ Azure Sentinel Honeypot Lab (SIEM Detection Project)
 
 This project demonstrates a self-built cloud honeypot using a publicly exposed Azure VM and Microsoft Sentinel to detect brute-force login attempts from real-world threat actors.
 
 ---
 
-##💡 Project Summary
+💡 Project Summary
 
 I built a cloud-based detection lab on Azure to simulate unauthorized access attempts and observe brute-force activity. Logs were ingested into Microsoft Sentinel for monitoring, detection, and manual incident investigation.
 
