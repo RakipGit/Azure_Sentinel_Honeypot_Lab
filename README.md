@@ -39,7 +39,9 @@ I built a cloud-based detection lab on Azure to simulate unauthorized access att
 <details>
 <summary>🔎 View Full Lab Walkthrough (Screenshots)</summary>
    
-
+ 0. VM Firewall Disabled (Inside the VM)
+   ![Firewall Off](images/VM-FirewallsOff.png)
+   
  1. NSG Rule - Exposing VM to Inbound Traffic
     ![NSG Rule](images/NSG-Rule.png)
     
