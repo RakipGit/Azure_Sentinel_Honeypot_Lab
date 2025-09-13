@@ -58,7 +58,7 @@ I built a cloud-based detection lab on Azure to simulate unauthorized access att
  6.Sentinel Generating Multiple Brute Force Incidents
    ![Incidents List](images/incidents.png)
 
- 7. Sentinel Incident Graph - Attack Entity Mapping
+ 7.Sentinel Incident Graph - Attack Entity Mapping
     ![Investigation Graph](images/investigation_graph.png)
 
  8. Attacker Entity Investigation (IP Profile in Sentinel)
