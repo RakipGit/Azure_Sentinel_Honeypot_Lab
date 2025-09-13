@@ -110,10 +110,12 @@ I built a cloud-based detection lab on Azure to simulate unauthorized access att
 
 All content and visuals in this repository are original and may not be reused without permission.
 
-
+---
 
 ## 🙋‍♂️ Rakip
  
-Cyber Security Professional | AZ-900 Certified   
+Cyber Security Professional | AZ-900 Certified  
+
+---
   
 <!--📫 [LinkedIn] | [GitHub] -->
