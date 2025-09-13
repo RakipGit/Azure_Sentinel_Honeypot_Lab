@@ -40,40 +40,40 @@ I built a cloud-based detection lab on Azure to simulate unauthorized access att
 <summary>🔎 View Full Lab Walkthrough (Screenshots)</summary>
    
 
-🔓 1. NSG Rule - Exposing VM to Inbound Traffic
+ 1. NSG Rule - Exposing VM to Inbound Traffic
     ![NSG Rule](images/NSG-Rule.png)
     
-📊 2. KQL Query to Detect Failed Logins + GeoIP Lookup
+ 2. KQL Query to Detect Failed Logins + GeoIP Lookup
     ![KQL Query + GeoIP](images/Logs-KQL-geo-search.png)
 
-🌍 3. Global Attack Map - Brute Force Sources
+ 3. Global Attack Map - Brute Force Sources
    ![Geo Map](images/geo-map.png)
 
-🚨 4.Logic App Automation Flow (Incident Trigger → Email)
+ 4.Logic App Automation Flow (Incident Trigger → Email)
     ![Logic App Designer](images/EmailOnBruteForceIncident(LogicApp).png)
 
-🔧 5.Incident Email Alert (From Logic App)
+ 5.Incident Email Alert (From Logic App)
    ![Email Alert](images/incident-email-alert.png)
 
-🧠 6.Sentinel Generating Multiple Brute Force Incidents
+ 6.Sentinel Generating Multiple Brute Force Incidents
    ![Incidents List](images/incidents.png)
 
-🕵️‍♂️ 7. Sentinel Incident Graph - Attack Entity Mapping
+🕵️‍♂ 7. Sentinel Incident Graph - Attack Entity Mapping
     ![Investigation Graph](images/investigation_graph.png)
 
-🌐 8. Attacker Entity Investigation (IP Profile in Sentinel)
+ 8. Attacker Entity Investigation (IP Profile in Sentinel)
     ![Entity Details](images/investigation.png)
 
-🧪 9. Verifying Attacker IP via VirusTotal
+ 9. Verifying Attacker IP via VirusTotal
    ![VirusTotal Scan](images/virus_total.png)
 
-✅ 10. Confirmed True Positive + Closed Incident
+ 10. Confirmed True Positive + Closed Incident
    ![Closed Incident](images/incident_closed.png)
 
-🚫 11. Manual NSG Rule to Block Malicious IP  
+ 11. Manual NSG Rule to Block Malicious IP  
    ![NSG Deny Rule](images/NSG-DenyMaliciousIP.png)
 
-🧪 12. IP Flow Verification – Deny Rule Working  
+ 12. IP Flow Verification – Deny Rule Working  
    ![Flow Verify Denied](images/VerifyMaliciousIP-Denied.png)
 
    
