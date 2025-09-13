@@ -33,8 +33,7 @@ I built a cloud-based detection lab on Azure to simulate unauthorized access att
 
 ## 📸 Screenshots 
 
-🔓 0. VM Firewall Disabled (Inside the VM)
-    ![Geo Map](images/geo-map.png)
+![Geo Map](images/geo-map.png)
 
 <details>
 <summary>🔎 View Full Lab Walkthrough (Screenshots)</summary>
