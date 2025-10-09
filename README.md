@@ -26,7 +26,7 @@ I built a cloud-based detection lab on Azure to simulate unauthorized access att
 - Created a **Sentinel Workbook** to visualize global attack locations
 - Built a custom **Analytics Rule** to detect brute-force login patterns
 - Investigated Sentinel-generated incidents via the **Investigation Graph**
-- Validated attacker IPs using **VirusTotal** and manually closed **True Positive** incidents
+- Validated attacker IP using **VirusTotal** and manually closed **True Positive** incidents
 - Blocked the confirmed malicious IP** using an **NSG deny rule** and verified it with **IP Flow Verify** in **Network Watcher**
 
 ---
