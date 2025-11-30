@@ -114,7 +114,7 @@ All content and visuals in this repository are original and may not be reused wi
 
 ##  Rakip
  
-Cyber Security Professional | AZ-900 Certified  
+ICT Engineering | Cybersecurity & Network Security
 
 ---
   
