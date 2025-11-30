@@ -2,19 +2,19 @@
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 
 
-## 🛡️ Azure Sentinel Honeypot Lab 
+##  Azure Sentinel Honeypot Lab 
 
 This project demonstrates a self-built cloud honeypot using a publicly exposed Azure VM and Microsoft Sentinel to detect brute-force login attempts from real-world threat actors.
 
 ---
 
-## 💡 Project Summary
+##  Project Summary
 
 I built a cloud-based detection lab on Azure to simulate unauthorized access attempts and observe brute-force activity. Logs were ingested into Microsoft Sentinel for monitoring, detection, and manual incident investigation.
 
 ---
 
-## ✅ What I Did
+##  What I Did
 
 - Created an Azure **Resource Group**, **VNet**, and **Windows 10 VM**
 - Configured **NSG** to allow all inbound traffic and disabled **Windows Firewall**
@@ -31,7 +31,7 @@ I built a cloud-based detection lab on Azure to simulate unauthorized access att
 
 ---
 
-## 📸 Screenshots 
+##  Screenshots 
 
 ![Geo Map](images/geo-map.png)
 
@@ -82,7 +82,7 @@ I built a cloud-based detection lab on Azure to simulate unauthorized access att
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Microsoft Azure (Resource Group,VNet,VM,NSG)
 - Microsoft Sentinel (SIEM)
@@ -95,7 +95,7 @@ I built a cloud-based detection lab on Azure to simulate unauthorized access att
 
 ---
 
-## 🧠 Insights & Lessons Learned
+##  Insights & Lessons Learned
 
 - Exposing the VM to the internet allowed me to simulate real-world attacks and observe how attackers behave in a short timeframe.
 - Disabling the VM firewall and creating open NSG rules were intentional misconfigurations to attract brute-force attempts, which were successfully logged and analyzed.
@@ -106,13 +106,13 @@ I built a cloud-based detection lab on Azure to simulate unauthorized access att
 
 ---
 
-## 🔒 Copyright Notice
+##  Copyright Notice
 
 All content and visuals in this repository are original and may not be reused without permission.
 
 ---
 
-## 🙋‍♂️ Rakip
+##  Rakip
  
 Cyber Security Professional | AZ-900 Certified  
 
